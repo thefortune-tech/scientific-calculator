@@ -20,7 +20,7 @@ class ScientificPanel extends StatelessWidget {
     ];
 
     return Container(
-      color: AppTheme.surfaceColor.withOpacity(0.5),
+      color: AppTheme.surfaceColor.withValues(alpha: 0.5),
       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
       child: Column(
         children: functions.map((row) {
