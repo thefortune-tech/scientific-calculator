@@ -19,7 +19,7 @@
  
 ## 📱 Overview
  
-**ScientIQ** is a professional-grade scientific calculator mobile application built with **Flutter** using **Clean Architecture**, **BLoC state management**, and **local data persistence**. Designed as a real-world production application, ScientIQ goes far beyond basic arithmetic — offering a full suite of scientific, trigonometric, hyperbolic, statistical, and combinatorial functions.
+**ScientIQ** is a  professional-grade scientific calculator mobile application built with **Flutter** using **Clean Architecture**, **BLoC state management**, and **local data persistence**. Designed as a real-world production application, ScientIQ goes far beyond basic arithmetic — offering a full suite of scientific, trigonometric, hyperbolic, statistical, and combinatorial functions.
  
 > Built as part of the SEN 104 & SEN 214 Mobile Application Development course at **Obafemi Awolowo University, Ile-Ife** — developed to production-grade standards.
  
